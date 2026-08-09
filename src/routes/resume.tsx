@@ -46,12 +46,8 @@ function App() {
         <CardContent>
           <div className="flex flex-col-reverse sm:flex-row items-center gap-8">
             <p className="flex-1 leading-relaxed text-foreground/90">
-              I'm a software engineer who spent the last seven years turning
-              ambiguous product briefs into interfaces that hold up under
-              real use — resilient state, honest loading states, and motion
-              that earns its keep. I care most about the gap between "it
-              works" and "it feels right," and I like teams that leave room
-              to close it.
+              I'm a software developer focused on backend engineering and AI-powered systems. I've worked across full-stack development and enterprise technology implementation, building APIs, integrating systems, working with data, and applying GenAI to automate complex workflows. I like taking messy, real-world problems and turning them into software that is reliable, useful, and built to work in practice.
+
             </p>
             <img
               src="/portrait-image.png"

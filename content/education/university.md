@@ -1,12 +1,12 @@
 ---
 school: "McGill University"
-summary: "BEng (Chemical), minor in Software Engineering — coursework Model-Based Programming, Introduction to Software Engineering, Introduction to Computer Science, algorithms, Software Requirements Engineering, Software Validation, and Software Engineering Practice."
+summary: "BEng (Chemical), minor in Software Engineering — Coursework: Model-Based Programming, Introduction to Software Engineering, Introduction to Computer Science, Algorithms & Data Structures, Software Requirements Engineering, Software Validation, and Software Engineering Practice."
 startDate: "2017"
 endDate: "2023"
 tags:
   [
     "Software Engineering Practice",
-    "Algorithms",
+    "Algorithms & Data Structures",
     "Model-Based Programming",
     "Computational Methods",
     "Software Validation"

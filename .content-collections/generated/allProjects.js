@@ -13,7 +13,7 @@ export default [
       "JUnit",
       "CI/CD"
     ],
-    "github": "https://github.com/ben-mwaniki/gallery-system",
+    "github": "https://github.com/ben12mwaniki/art-gallery",
     "content": "Built a secure full-stack web application using Spring Boot to support artwork\nmanagement, user interactions, and online sales workflows. Designed RESTful APIs\nand integrated Vue.js and Android frontends to provide multiple client\nexperiences over a shared backend.\n\nTranslated user requirements into domain models and structured PostgreSQL\ndatabase schemas, applying object-oriented design principles to create a\nscalable and maintainable application architecture.\n\nImplemented automated unit and system testing with JUnit and integrated tests\ninto a CI pipeline using Travis CI to validate application functionality and\nimprove development reliability.",
     "_meta": {
       "filePath": "art-gallery.md",
@@ -35,8 +35,8 @@ export default [
       "Agile",
       "Web Development"
     ],
-    "github": "https://github.com/ben-mwaniki/master-chef",
-    "liveUrl": "",
+    "github": "https://github.com/ben12mwaniki/Master_Chef",
+    "liveUrl": "https://master-chef-3bhn.onrender.com/",
     "content": "Developed a Flask-based recipe sharing web application through Agile sprint\ncycles, contributing to iterative feature development, user story refinement,\nand incremental delivery.\n\nApplied Behavior-Driven Development (BDD) practices using Gherkin scenarios and\nPytest to define acceptance criteria, validate functional requirements, and\nexpand automated test coverage.\n\nCollaborated within a team development workflow using structured testing and\nAgile practices to improve application quality and maintainability.",
     "_meta": {
       "filePath": "recipe-sharing.md",

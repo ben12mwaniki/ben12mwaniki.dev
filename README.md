@@ -1,7 +1,7 @@
 # Ben Mwaniki — Portfolio
 
 A personal portfolio site: home, resume (experience + education), projects,
-blog, and a contact form, in a dark, luminous-green, sleek/modern theme.
+blog, and a contact form, in a dark, luminous-green, sleek/modern theme. The live portfolio is available [here](https://ben12mwaniki.netlify.app/). 
 
 ## Tech stack
 

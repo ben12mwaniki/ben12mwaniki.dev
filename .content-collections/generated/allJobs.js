@@ -4,7 +4,7 @@ export default [
     "jobTitle": "Relationship Officer – Digital Services",
     "summary": "Supported the adoption and usability of digital banking services by onboarding customers, resolving technical issues, and translating user feedback into product improvement recommendations.",
     "startDate": "2016-04-01",
-    "endDate": "2016-12-01",
+    "endDate": "2016-12-31",
     "company": "Equity Bank Kenya Limited",
     "location": "Nairobi, Kenya",
     "tags": [

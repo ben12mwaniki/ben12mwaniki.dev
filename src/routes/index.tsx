@@ -7,23 +7,23 @@ import { Card, CardContent } from '@/components/ui/card'
 export const Route = createFileRoute('/')({
   component: Home,
 })
-
+ 
 const SKILLS = [
   {
-    category: 'Frontend',
-    items: ['React', 'TypeScript', 'TanStack Start', 'Tailwind CSS', 'Vite'],
+    category: 'Backend & APIs',
+    items: ['Python', 'FastAPI', 'Java', 'Spring Boot', 'REST APIs', 'SQL'],
   },
   {
-    category: 'Backend',
-    items: ['Node.js', 'PostgreSQL', 'GraphQL', 'Serverless Functions'],
+    category: 'AI & Data',
+    items: ['LLM Applications', 'GPT-4o', 'GenAI Automation', 'PostgreSQL', 'MongoDB'],
   },
   {
-    category: 'Tooling & Practice',
-    items: ['CI/CD', 'Playwright', 'Design Systems', 'Accessibility (WCAG)'],
+    category: 'Engineering & DevOps',
+    items: ['Docker', 'Git', 'CI/CD', 'GitHub Actions', 'Pytest', 'JUnit'],
   },
   {
-    category: 'Currently learning',
-    items: ['WebGPU', 'Rust'],
+    category: 'Full-Stack Development',
+    items: ['JavaScript', 'MERN', 'Vue.js', 'Agile', 'BDD', 'Integration Testing'],
   },
 ]
 
@@ -46,14 +46,11 @@ function Home() {
               Available for select engagements
             </div>
             <h1 className="font-display text-5xl md:text-7xl font-semibold leading-[1.02] mb-6">
-              I build interfaces that feel
-              <span className="text-primary glow-text"> alive.</span>
+              I build systems that work
+              <span className="text-primary glow-text"> beautifully.</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-xl leading-relaxed">
-              Software engineer focused on frontend architecture, developer
-              tooling, and the small interaction details most teams skip.
-              Currently based between remote-first product teams.
-            </p>
+              Software developer focused on backend and AI-powered systems, blending hands-on engineering with enterprise implementation experience to build intelligent solutions that are reliable, intuitive, and thoughtfully designed.            </p>
             <div className="flex flex-wrap gap-4 mt-9">
               <Link
                 to="/contact"

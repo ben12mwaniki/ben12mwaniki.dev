@@ -19,8 +19,7 @@ function BlogIndex() {
         Writing
       </h1>
       <p className="text-muted-foreground mb-12">
-        Notes on frontend architecture, tooling, and the occasional rabbit hole.
-      </p>
+        Thoughts on building software, exploring AI, and the lessons learned along the way.      </p>
 
       <div className="space-y-5">
         {posts.map((post) => (
