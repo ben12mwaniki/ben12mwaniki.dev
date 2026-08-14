@@ -9,7 +9,7 @@ tags:
   [
     "FastAPI",
     "Python",
-    "GPT-4o",
+    "GPT-4.1 mini",
     "SQL",
     "Docker",
     "Veeva QMS",
